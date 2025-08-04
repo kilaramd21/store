@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class IntroToSpringbootApplication {
 
 	public static void main(String[] args) {
-		System.out.println("hello world yoo lala edit");
+		System.out.println("hello world yoo lala edit fetch");
 		SpringApplication.run(IntroToSpringbootApplication.class, args);
 	}
 
